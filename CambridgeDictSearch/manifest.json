@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Cambridge Dictionary Search",
+    "description": "This extension will search text in Cambridge Dictionary",
+    "author": "Sai Solomon",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "cam-dict.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     ]
+  }
