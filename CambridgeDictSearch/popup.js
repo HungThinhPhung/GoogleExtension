@@ -1,4 +1,3 @@
-// test1
 document.addEventListener('DOMContentLoaded', function () {
     var textBox = document.getElementById('input');
     var checkPageButton = document.getElementById('search');
